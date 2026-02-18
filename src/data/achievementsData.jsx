@@ -10,7 +10,7 @@ export const achievementsData = [
     guide: "Divya C Kumar Ma’am",
     dept: "ISE Department, KIT",
     image: "/achievements/expo.png",
-    certificate: "/certificates/best student award.pdf",
+    certificate: "/certificates/project expo.pdf",
     details: `Our project focused on AI & ML for early disease detection. Grateful to my amazing team and guide for support throughout.`
   },
   {

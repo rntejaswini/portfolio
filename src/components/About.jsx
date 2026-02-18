@@ -178,7 +178,7 @@ const About = () => {
         <FloatingLogo icon={FaJsSquare} label="JavaScript" style={{ top: "20%", right: "6%" }} />
         <FloatingLogo icon={FaHtml5} label="HTML5" style={{ bottom: "18%", left: "9%" }} />
         <FloatingLogo icon={FaCss3Alt} label="CSS3" style={{ bottom: "12%", right: "3%" }} />
-        <FloatingLogo icon={FaJava} label="Java" style={{ top: "15%", left: "24%" }} />
+        <FloatingLogo icon={FaJava} label="Java" style={{ top: "20%", left: "64%" }} />
         <FloatingLogo icon={FaPython} label="Python" style={{ top: "48%", right: "50%" }} />
         <FloatingLogo icon={SiC} label="C Programming" style={{ bottom: "5%", left: "40%" }} />
       </div>

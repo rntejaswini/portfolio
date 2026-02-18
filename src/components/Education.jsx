@@ -7,7 +7,7 @@ const educationData = [
     institute: "Kalpataru Institute Of Technology, Tiptur",
     university: "Visvesvaraya Technological University",
     year: "2022-2026",
-    cgpa: "9.17/10",
+    cgpa: "9.24/10",
     image: "/college.png", // Place your image in public folder
     website: "https://www.kittiptur.ac.in/", // College website
   },
